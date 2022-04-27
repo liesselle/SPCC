@@ -61,6 +61,7 @@ return 0;
 
 
 /***
+INPUT:
 int a ;
 float b = 10.2 ;
 char ch = 'z' ;
